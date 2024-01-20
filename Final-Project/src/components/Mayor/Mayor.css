@@ -1,0 +1,22 @@
+.mayor-image {
+    width: 100%;
+    height: 120vh;
+    display: flex;
+    justify-content: center;
+    background-position: center;
+    background-size: cover;
+    margin-top: 50px;
+}
+.özgeçmiş {
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 32px;
+    text-align: left;
+    color: #686868;
+    max-width: 600px;
+    position: absolute;
+    left: 100px;
+    top: 30%;
+    bottom: 50%;
+    text-indent:30px;
+}

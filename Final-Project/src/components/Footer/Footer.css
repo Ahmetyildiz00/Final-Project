@@ -1,0 +1,81 @@
+.footer {
+    background: rgb(251 251 251 / 85%);
+    padding-top: 80px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+}
+.footer .footer-container {
+    display: flex;
+    justify-content: space-between;
+}
+.footer .social {
+    text-align: center;
+    max-width: 170px;
+}
+.footer .social a {
+    display: inline-block;
+    margin: 0px 3px;
+    margin-top: 20px;
+}
+.footer .social .text {
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    line-height: 20px;
+    color: #999;
+    margin-top: 10px;
+}
+.footer .solutioncall {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+    padding-right: 20px;
+}
+.footer .solutioncall .text {
+    font-weight: bold;
+    font-size: 51px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    color: rgba(153, 153, 153, 0.5);
+}
+
+.footer .solutioncall .text small {
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #ccc;
+    display: block;
+}
+
+.footer .envelope {
+    font-weight: 300;
+    font-size: 30px;
+    letter-spacing: 0.02em;
+    line-height: 34px;
+    color: #999;
+    text-align: right;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.footer .envelope span {
+    color: #066069;
+}
+
+.footer .address {
+    font-weight: 300;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+    line-height: 20px;
+    text-align: right;
+    color: #999;
+    max-width: 340px;
+    margin-left: auto;
+}
+
+.footer .address span {
+    color: #066069;
+}

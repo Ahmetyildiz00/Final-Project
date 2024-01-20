@@ -1,0 +1,34 @@
+.meram{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(164, 164, 164);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 150px;
+}
+.tarihçe h1{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+    color: #59c153;
+    margin-bottom: 70px;
+}
+.tarihçe h2{
+    font-size: 50px;
+    font-weight: 500;
+}
+.tarihçe p{
+    font-size: 30px;
+    text-indent:30px;
+    font-weight: 500;
+}
+.yaşam h2{
+    font-size: 50px;
+    margin-top: 50px;
+    font-weight: 500;
+}
+.yaşam p{
+    font-size: 30px;
+    text-indent:30px;
+    font-weight: 500;   
+}

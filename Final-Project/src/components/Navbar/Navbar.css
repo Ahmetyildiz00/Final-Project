@@ -1,0 +1,45 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    background: linear-gradient(267deg, #066069 0%, #1e7d62 38.49%, #8aca38 100%);
+    font-family: 'Poppins', sans-serif;
+    border-radius: 120px ;
+    background-size: cover;
+}
+
+.nav-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: white;
+    padding: 10px 20px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}   
+.nav-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    gap: 40px;
+    color:white;
+    font-size: 25px;
+    font-weight: 500;
+} 
+.nav-menu li{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    cursor: pointer;
+}
+.nav-menu hr{
+    border: none;
+    width: 80%;
+    height: 3px;
+    border-radius: 10px;
+    background: #03fe31;
+}
